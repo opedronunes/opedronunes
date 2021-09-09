@@ -1,3 +1,3 @@
-#Olá, sou Pedro Filipe!
+Olá, sou Pedro Filipe!
 🙍‍♂️pedrofilipe
 🌱estudando Javascript

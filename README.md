@@ -1,3 +1,2 @@
 Olá, sou Pedro Filipe!
-🙍‍♂️pedrofilipe
-🌱estudando Javascript
+- 🌱estudando Javascript

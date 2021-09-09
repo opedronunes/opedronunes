@@ -1,2 +1,2 @@
-Olá, sou Pedro Filipe!
-.🌱estudando Javascript
+## Olá, sou Pedro Filipe!
+-🌱estudando Javascript

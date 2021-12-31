@@ -1,5 +1,5 @@
 ## Olá, sou Pedro Filipe!
--🌱Estudando Javascript
+-🌱Estudando PHP
 
 -🎯Evoluindo
 

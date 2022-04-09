@@ -1,9 +1,7 @@
-## Olá, sou Pedro Filipe!
--🌱Estudando PHP
 
--🎯Evoluindo
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Vollkorn&size=23&duration=4000&color=00834D&center=true&multiline=true&width=500&height=62&lines=What's+up%2C+Programmer%3F;My+name+is+Pedro+and+I'm+a+Web+Developer" /></div>
 
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/PedroNunes-Dev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroNunes-Dev&include_all_commits&count_private=true&show_icons=true&theme=nord" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNunes-Dev&layout=compact&theme=nord" />

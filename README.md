@@ -13,7 +13,7 @@
 
 ```js
   
-    //EN: My only regret is not known the programming before. I'm constantly evolving!
+    //My only regret is not known the programming before. I'm constantly evolving!
     const Me = {
       Name: "Pedro Nunes",
       Nationality: "Brazilian",

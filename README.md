@@ -1,5 +1,5 @@
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Vollkorn&size=23&duration=4000&color=00834D&center=true&multiline=true&width=500&height=62&lines=What's+up%2C+Programmer%3F;My+name+is+Pedro+and+I'm+a+Web+Developer" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Vollkorn&size=23&duration=4000&color=00834D&center=true&multiline=true&width=500&height=62&lines=What's+up%2C+human%3F;My+name+is+Pedro+and+I'm+a+Web+Developer" /></div>
 
 <div align="center"><br>
   <a href="https://github.com/PedroNunes-Dev">

@@ -13,7 +13,7 @@
       Nationality: "Brazilian",
       birth: "1993/05/28",
       characteristics: "Fast learning and easy adaptation",
-      studying: "PHP"
+      studying: "PHP/Laravel"
     };
   
 ```

@@ -10,22 +10,19 @@
 </div>
 
 ## About me 🧑‍💻
-<div style="diplay: flex; justify-content: space-between; align-items: center">
-  <div>
-  
-    ```js
-      //My only regret is not known the programming before. I'm constantly evolving!
-      const Me = {
-        Name: "Pedro Nunes",
-        Nationality: "Brazilian",
-        birth: "1993/05/28",
-        characteristics: "Fast learning and easy adaptation",
-        studying: "PHP/Laravel"
-      };
-      
-    ```
-  </div>
-</div>
+
+```js
+    
+  //My only regret is not known the programming before. I'm constantly evolving!
+  const Me = {
+    Name: "Pedro Nunes",
+    Nationality: "Brazilian",
+    birth: "1993/05/28",
+    characteristics: "Fast learning and easy adaptation",
+    studying: "PHP/Laravel"
+  };
+```
+
 <div align="center"><br>
   <a href="https://github.com/PedroNunes-Dev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroNunes-Dev&include_all_commits&count_private=true&show_icons=true&theme=nord" />

@@ -1,23 +1,31 @@
 
 <img src="https://komarev.com/ghpvc/?username=PedroNunes-Dev&color=00834D&style=flat" />
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Vollkorn&size=23&duration=4000&color=00834D&center=true&multiline=true&width=500&height=62&lines=What's+up%2C+human%3F;My+name+is+Pedro+and+I'm+a+Web+Developer" /></div>
+
+<div align="center" style="display: flex; justify-content: space-between;" items: center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Vollkorn&size=23&duration=4000&color=00834D&center=true&multiline=true&width=500&height=62&lines=What's+up%2C+human%3F;My+name+is+Pedro+and+I'm+a+Web+Developer" />
+<div align="center">
+    <img width="220px" src="https://portfolio-pedro-nunes.vercel.app/assets/emoji.9ada1fdc.png" />
+  </div>
+</div>
 
 ## About me 🧑‍💻
-
-```js
+<div style="diplay: flex; justify-content: space-between; align-items: center">
+  <div>
   
-    //My only regret is not known the programming before. I'm constantly evolving!
-    const Me = {
-      Name: "Pedro Nunes",
-      Nationality: "Brazilian",
-      birth: "1993/05/28",
-      characteristics: "Fast learning and easy adaptation",
-      studying: "PHP/Laravel"
-    };
-  
-```
-
+    ```js
+      //My only regret is not known the programming before. I'm constantly evolving!
+      const Me = {
+        Name: "Pedro Nunes",
+        Nationality: "Brazilian",
+        birth: "1993/05/28",
+        characteristics: "Fast learning and easy adaptation",
+        studying: "PHP/Laravel"
+      };
+      
+    ```
+  </div>
+</div>
 <div align="center"><br>
   <a href="https://github.com/PedroNunes-Dev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroNunes-Dev&include_all_commits&count_private=true&show_icons=true&theme=nord" />

@@ -1,5 +1,5 @@
 
-<img src="https://komarev.com/ghpvc/?username=PedroNunes-Dev&color=00834D&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=opedronunes&color=00834D&style=flat" />
 
 
 <div align="center" style="display: flex; justify-content: space-between;" items: center">
@@ -25,8 +25,8 @@
 
 <div align="center"><br>
   <a href="https://github.com/PedroNunes-Dev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroNunes-Dev&include_all_commits&count_private=true&show_icons=true&theme=nord" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroNunes-Dev&layout=compact&theme=nord" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=opedronunes&include_all_commits&count_private=true&show_icons=true&theme=nord" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedronunes&layout=compact&theme=nord" />
 </div>
   
 <div style="display: inline_block; justify-content: center;" align="center"><br>
